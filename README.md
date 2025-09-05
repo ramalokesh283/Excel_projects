@@ -32,6 +32,11 @@ Open in Excel
 Explore PivotTables, PivotCharts, and Dashboard sheets
 Use slicers/filters for interactive analysis
 
+📊 Dashboard Preview
+Here’s a snapshot of the Sales & Profit Dashboard created in Excel:
+
+![Sales Dashboard]--"C:\Users\ramal\Pictures\Screenshots\Screenshot 2025-09-05 133512.png"
+
 
 **This project is part of my Excel Projects Portfolio. More projects coming soon!**
 
