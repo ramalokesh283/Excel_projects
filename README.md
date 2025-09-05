@@ -1,19 +1,39 @@
 Sales Data Analysis 📊
 
-This project contains an "Excel-based Sales Data Analysis".  
-The dataset includes sales records with details such as region, category, product, and sales amount.  
+This project demonstrates Excel-based data analysis using PivotTables, PivotCharts, and interactive dashboards.
+The analysis provides insights into sales, profit, top customers, categories, and trends.  
 
-=>Skills Used
-- Data cleaning and preprocessing  
-- Excel formulas (SUM, AVERAGE, IF)  
-- PivotTables & PivotCharts  
-- Conditional formatting  
-- Sales dashboard creation  
+Dataset
 
-Files
-- SALES_DATA.xlsx → Raw dataset for analysis  
+File:"C:\Users\ramal\Documents\sales data.xlsx"
+Columns: Date, Region, Category, Product, Sales, Profit, Customer ID
+Size: ~1000 rows
+Source: Dummy business sales dataset (self-created for learning purpose)
 
-Future Work
-- Build interactive dashboard with slicers  
-- Perform time-series trend analysis  
-- Integrate with Power Query for automation  
+🚀 Skills Used
+
+ Data cleaning & preprocessing in Excel
+ Formulas: SUM, AVERAGE, IF
+ PivotTables & PivotCharts
+ Conditional Formatting
+ Dashboard creation (Slicers, KPIs, Interactive Filters)
+
+Key Insights
+
+Total Sales: $19,28,887.86 
+Top Category:"PHONES"( $2,79,464.42 )
+Top Customer: Sean miller( $25,035 )
+Sales peaked in September 2021
+
+How to Use
+
+Download the file: SALES_DATA.xlsx or file path:"C:\Users\ramal\Documents\sales data.xlsx"
+Open in Excel
+Explore PivotTables, PivotCharts, and Dashboard sheets
+Use slicers/filters for interactive analysis
+
+
+**This project is part of my Excel Projects Portfolio. More projects coming soon!**
+
+
+
